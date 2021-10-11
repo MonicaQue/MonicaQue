@@ -7,7 +7,7 @@ My name is Monica Cue, and currently I'm a math student that lives in Mexico. Da
 ## Quick Facts.
 
 - 🏃🏻‍♀️ Data Scientist focused on Python
-- 🌱 Currently studying math specilization in Graph Theory
+- 🌱 Currently studying math specialization in Graph Theory
 - 😄 Pronouns: She, her
 - 🖥️ Python, Java, C#, GD Script enthusiastic
 - 📖 Book lover
