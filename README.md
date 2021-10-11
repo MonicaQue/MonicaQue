@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hello world 👋
 
-Here are some ideas to get you started:
+My name is Monica Cue, and currently I'm a math student that lives in Mexico. Data Scientist in my free time. Below is a photo of some of my scores at Kaggle Competitions.
 
-![imagen](https://user-images.githubusercontent.com/92287501/136747604-834d50b9-84d0-4eb4-a908-249ca5d68e26.png)
+![imagen](https://user-images.githubusercontent.com/92287501/136801112-ab8a3f90-08a6-48b3-962b-96f76f455ec1.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Quick Facts.
+
+- 🏃🏻‍♀️ Data Scientist focused on Python
+- 🌱 Currently studying math specilization in Graph Theory
+- 😄 Pronouns: She, her
+- 🖥️ Python, Java, C#, GD Script enthusiastic
+- 📖 Book lover
+- ♟️ Chess hobbyest
+- ⚡ Fun fact: My local adress is 127.0.0.1
